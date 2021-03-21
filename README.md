@@ -1,0 +1,1 @@
+A mock wedding surplus store linked to a database. Created using Cakephp
